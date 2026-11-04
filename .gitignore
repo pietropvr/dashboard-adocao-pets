@@ -6,4 +6,3 @@ __pycache__/
 .streamlit/
 
 data/raw/*.csv
-data/processed/*.csv
