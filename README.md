@@ -40,6 +40,5 @@ Este pipeline pode ser implementado no sistema de gestão de uma ONG ou centro d
 *Nota: O ficheiro bruto `animais.csv` deve ser colocado na pasta `data/raw/` (não versionado no GitHub por segurança).*
 
 ## 9. Links de Entrega
-* **Repositório Pessoal:** (Inserir link após publicação)
-* **Aplicação Streamlit (Deploy):** (Inserir link após publicação)
-* **Vídeo Explicativo:** (Inserir link após publicação)
+* **Repositório Pessoal:** [https://github.com/pietropvr/dashboard-adocao-pets](https://github.com/pietropvr/dashboard-adocao-pets)
+* **Aplicação Streamlit (Deploy):** [https://dashboard-adocao-pets-6jctdw5sk7xdqw5ge6wwab.streamlit.app/](https://dashboard-adocao-pets-6jctdw5sk7xdqw5ge6wwab.streamlit.app/)
