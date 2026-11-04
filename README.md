@@ -41,4 +41,4 @@ Este pipeline pode ser implementado no sistema de gestão de uma ONG ou centro d
 
 ## 9. Links de Entrega
 * **Repositório Pessoal:** [https://github.com/pietropvr/dashboard-adocao-pets](https://github.com/pietropvr/dashboard-adocao-pets)
-* **Aplicação Streamlit (Deploy):** [https://dashboard-adocao-pet.streamlit.app/)/](https://dashboard-adocao-pets.streamlit.app/)
+* **Aplicação Streamlit (Deploy):** [https://dashboard-adocao-pet.streamlit.app/](https://dashboard-adocao-pets.streamlit.app/)
